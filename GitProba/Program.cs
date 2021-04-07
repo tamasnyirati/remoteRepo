@@ -11,6 +11,8 @@ namespace GitProba
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GIT!");
+            
+            Console.Readline();
         }
     }
 }
