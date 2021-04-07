@@ -12,7 +12,7 @@ namespace GitProba
         {
             Console.WriteLine("Hello GIT!");
             
-            Console.Readline();
+            Console.ReadLine();
         }
     }
 }
